@@ -1,0 +1,226 @@
+body,html{
+	margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+#home .content button{
+	border-radius: 20px;
+    padding: 8px 25px;
+    background: #faa31b;
+    color: white;
+    border: none;
+}
+#home .content h1{
+	font-size: 43px;
+    font-weight: 100;
+}
+#home .content{
+	width: 37%;
+    padding-top: 100px;
+    padding-left: 200px;
+    margin-bottom: 100px;
+	
+}
+#home .svg{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	z-index:-1;
+}
+#home{
+	
+	overflow:hidden;
+	color:#fff;
+	position:relative;
+}
+#logo{
+	float:left;
+	
+}
+#logo img{
+	width: 110px;
+}
+#top-head nav .top-left{
+	float:left;
+}
+#top-head nav .top-links{
+	float:right;
+	margin: 0;
+}
+#top-head nav li{
+	list-style:none;
+	display:inline-block;
+}
+#top-head a.heart{
+	font-size: 20px;
+}
+#top-head a{
+	padding:0 20px;
+	text-decoration:none;
+    color: #f9dcdc;
+}
+#top-head{
+	background:#c12127;
+	padding:10px;
+	overflow:hidden;
+    color: #f9dcdc;
+}
+div#search-head {
+    overflow: hidden;
+    padding: 5px 20px;
+}
+#search{
+	float:right;
+	width: 90%;
+}
+input.input-search {
+    width: 94%;
+    padding: 10px;
+    background: #1e506d;
+    border: 1px solid #ccc;
+    float: left;
+}
+div#search-icon {
+    float: left;
+    width: 3%;
+    background: #1e506d;
+    height: 35px;
+    border: 1px solid #ccc;
+	position:relative;
+}
+#search-icon img {
+    width: 20px;
+    position: absolute;
+    top: 22%;
+    left: 19%;
+}
+#menu-div{
+	overflow: hidden;
+	display: inline-block;
+	float: right;
+}
+div#search-div {
+    display: inline-block;
+    width: 88%;
+}
+div#menu-div ul {
+	margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+div#menu-div li {
+    float: left;
+    list-style: none;
+    padding: 5px;
+}
+div#menu-div img {
+    width: 20px;
+}
+
+#second{
+	overflow:hidden;
+	padding:20px 20px;
+	position:relative;
+	background:#263547;
+	color:#fff;
+	padding-bottom: 100px;
+}
+#second .right-content h1{
+	font-size: 30px;
+    font-weight: 100;
+}
+#second .right-content{
+	width: 50%;
+    float: right;
+    padding-top: 100px;
+    line-height: 1.7;
+}
+#second  .right-content button{
+	border-radius: 20px;
+    padding: 8px 25px;
+    background: #ce5127;
+    color: white;
+    border: none;
+}
+
+#second .svg{
+	top: 0;
+    left: 0;
+    width: 50%;
+    height: 281px;
+    z-index: 0;
+    margin-top: 118px;
+    float: right;
+}
+
+#third{
+	overflow:hidden;
+	padding:20px 20px;
+	position:relative;
+	color:#fff;
+	padding-bottom: 100px;
+}
+#third .right-content h1{
+	font-size: 30px;
+    font-weight: 100;
+}
+#third .left-content{
+	width: 30%;
+    float: left;
+    padding-top: 100px;
+    line-height: 1.7;
+	padding-left: 100px;
+}
+#third  .left-content button{
+	border-radius: 20px;
+    padding: 8px 25px;
+    background: #314358;
+    color: white;
+    border: none;
+}
+#third .svg{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	z-index:-1;
+}
+#forth{
+	overflow:hidden;
+	padding:20px 20px;
+	position:relative;
+	color:#fff;
+	padding-bottom: 100px;
+}
+#fourth .circle-container{
+	width:70%;
+	margin:0 auto;
+}
+#fourth .title-head{
+	padding: 20px 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+	color: #666666;
+}
+#fourth .content{
+	text-align:center;
+	color: #666666;
+}
+#fourth .content .item-circle{
+	width:30%;
+	display:inline-block;
+	vertical-align:top;
+	margin: 0 10px;
+	color: #959494;
+}
+#fourth .content .item-title{
+	color: #666666;
+}
+#libraries {
+	color: red;
+}
